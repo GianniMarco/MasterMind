@@ -1,10 +1,10 @@
 # MasterMind
-A MasterMind made with help of [GianniMarco](https://www.github.com/GianniMarco) (Misha08).
-Visit GianniMarco's scratch page: [Gianni_Marco](https://scratch.mit.edu/users/Gianni_Marco/)
+A MasterMind made with help of [OrangoMango](https://www.github.com/OrangoMango).
+Visit my scratch page: [Gianni_Marco](https://scratch.mit.edu/users/Gianni_Marco/)
 
 # Project page
 See the project on the website of scratch [here](https://scratch.mit.edu/projects/385833683/). <br />
-Follow me on scratch: [CACOorango](https://scratch.mit.edu/users/CACOorango/).
+Follow OrangoMango's scratch page: [CACOorango](https://scratch.mit.edu/users/CACOorango/).
 
 # Instructions
 
